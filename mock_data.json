@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "Betty Smith",
+    "profile_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/betty_smith/betty_smith.jpg",
+    "story_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/betty_smith/betty_smith_story.jpg"
+  },
+  {
+    "name" : "April Furlow",
+    "profile_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/april_furlow/april_furlow.jpg",
+    "story_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/april_furlow/april_furlow_story.jpg"
+  },
+  {
+    "name" : "Richard Rhodes",
+    "profile_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/richard_rhodes/richard_rhodes.jpg",
+    "story_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/richard_rhodes/richard_rhodes_story.jpg"
+  },
+  {
+    "name" : "Harry Rivers",
+    "profile_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/harry_rivers/harry_rivers.jpg",
+    "story_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/harry_rivers/harry_rivers_story.jpg"
+  },
+  {
+    "name" : "Dai Huang",
+    "profile_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/dai_huang/dai_huang.jpg",
+    "story_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/dai_huang/dai_huang_story.jpg"
+  },
+  {
+    "name" : "Ronald Woods",
+    "profile_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/ronald_woods/ronald_woods.jpg",
+    "story_image" : "https://raw.githubusercontent.com/AkshatGiri/mock_people/master/ronald_woods/ronald_woods_story2.jpg"
+  }
+]
